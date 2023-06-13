@@ -24,7 +24,6 @@ console.log(data.value.wrappar.coreObject.nestText);
 // value: undefined
 // no console error
 console.log(data.value.wrappar.value.coreObject.nestText);
-3;
 // -----------------------------------
 // test case 2: success
 // -----------------------------------
